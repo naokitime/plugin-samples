@@ -1,1 +1,0 @@
-# Color Cell Plug-in
